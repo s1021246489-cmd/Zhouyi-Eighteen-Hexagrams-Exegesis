@@ -1,9 +1,8 @@
 cff-version: 1.2.0
-message: "If you use or cite this work, please cite it using the metadata from this file."
-title: "《周易》十八卦卦爻辞系统考释"
+message: "If you use this work, please cite it as below."
+title: "Zhouyi Eighteen Hexagrams Exegesis (Shihao Sun)"
 authors:
   - family-names: "Sun"
     given-names: "Shihao"
-    affiliation: "Independent Scholar (Alumnus, The University of Auckland)"
-date-released: "2026-11-14"
+date-released: 2026-11-14
 url: "https://github.com/s1021246489-cmd/Zhouyi-Eighteen-Hexagrams-Exegesis"
