@@ -1,7 +1,7 @@
 # 《周易》十八卦卦爻辞系统考释
 **A Systematic Textual and Institutional Exegesis of Eighteen Hexagrams in the Zhouyi**
 
-* **作者 (Author)**：孙士豪 (Shihao Sun)，独立研究者 (Independent Scholar, Alumnus of The University of Auckland)
+* **作者 (Author)**：Shihao Sun，独立研究者 (Independent Scholar, Alumnus of The University of Auckland)
 * **版本状态 (Status)**：2026年11月定稿（据 `ctext.org` 所收《四部丛刊初编》、清乾隆《武英殿二十四史》、清嘉庆南昌府学刻《十三经注疏》及经韵楼刻《说文解字注》原书影印本核校）[cite: 1]
 * **永久学术标识符 (DOI)**：`10.5281/zenodo.xxxxxxx`（请替换为你的实际 DOI）
 * **全文下载 (Full Text)**：请在本仓库文件列表中下载 `02_正编_《周易》十八卦卦爻辞系统考释.docx`[cite: 1]（或对应 PDF 版本）。
