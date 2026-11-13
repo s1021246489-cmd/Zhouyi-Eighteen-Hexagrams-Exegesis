@@ -1,23 +1,41 @@
-本文为《周易》十八卦卦爻辞系统考释之总导论。面对易学史上长期存在的“易解单句而难通全卦”之难题,本文尝试从《左传·昭公二年》晋韩宣子聘鲁观书于太史氏、见《易象》而叹“周礼尽在鲁矣,吾乃今知周公之德,与周之所以王也”这一历史记载切入,探讨《周易》古经作为西周初年“巫(太卜)史(太史)未分”背景下由王官集团编纂之政典与史册的可能性。或因其采用“以象系史、寓礼于筮”的巫史合一体裁,《周易》方在秦代焚书之祸中借“卜筮之书”的形态得以幸存,成为先秦六经中保存较为完整的西周早期文献。
+# 《周易》十八卦卦爻辞系统考释
+**A Systematic Textual and Institutional Exegesis of Eighteen Hexagrams in the Zhouyi**
 
-本研究尝试依循“一卦一主题、六爻相贯通”、“卦象爻位与史事礼制相契合”及“跨卦重文与错综对位互参”三项考释原则,将十八卦梳理为三大板块:
+* **作者 (Author)**：孙士豪 (Shihao Sun)，独立研究者 (Independent Scholar, Alumnus of The University of Auckland)
+* **版本状态 (Status)**：2026年11月定稿（据 `ctext.org` 所收《四部丛刊初编》、清乾隆《武英殿二十四史》、清嘉庆南昌府学刻《十三经注疏》及经韵楼刻《说文解字注》原书影印本核校）[cite: 1]
+* **永久学术标识符 (DOI)**：`10.5281/zenodo.xxxxxxx`（请替换为你的实际 DOI）
+* **全文下载 (Full Text)**：请在本仓库文件列表中下载 `02_正编_《周易》十八卦卦爻辞系统考释.docx`[cite: 1]（或对应 PDF 版本）。
 
-上编《周人历史》(十一卦): 回应“周之所以王也”,梳理自晚商覆亡、周室三代蓄势受命、牧野鼎革至周公摄政平叛,以及周人以夏朝王权动荡为历史镜鉴、申命训诫后人之政治总结的历史脉络。
+---
 
-中编《周人经世》(五卦): 回应“周礼尽在鲁矣”,探讨制度类诸卦与西周礼制(军礼、冬狩礼、岁时农政、司空水政、宗法鼎食与同罪异罚刑狱之礼)的内在对应关系。
+## 全书结构与核心考据提要 (Abstract & Monograph Structure)
 
-下编《周人哲学与生活》(二卦): 探讨周人面对坎险困境的空间应对策略与启蒙成长认知规律。(“注:此部分为哲理类义理阐释,不可证明亦不可证伪,仅作文本分类举例”)
+本专著剥离后世《十翼》易传与汉宋象数附会，立足先秦史、西周礼制（《周礼》《仪礼》《礼记》）、甲骨金文及战国简帛（清华简《程寤》《保训》），系统还原《周易》古经十八卦的原始历史语境与制度编码[cite: 1]。全书分为三编[cite: 1]：
 
-DOI:https://doi.org/10.5281/zenodo.23996995
+### 上编：商周历史与夏史镜鉴（01–11）[cite: 1]
+* **01. 蛊卦（晚商三代治弊与覆亡）**：以“先甲三日（辛）、后甲三日（丁）”对应商代周祭制度与商王日名，考证本卦为西周初年对文丁（丁）、帝乙、帝辛（辛）三代治弊与覆亡历程之总括记述[cite: 1]。
+* **02–03. 中孚卦与无妄卦（周人三代蓄势的内外双轨）**：考释《中孚》（内诚）与《无妄》（外正）六爻严密对位，还原太王传位、太伯仲雍让国、季历征戎遇害（“马匹亡”与“或系之牛”内外视角互证）及文王羑里被囚七年知止待时之史事[cite: 1]。
+* **04–05. 益卦与损卦（明堂受命与先损后益传道）**：以《益》六二与《损》六五“或益之，十朋之龟弗克违”十字重文互锁清华简《程寤》太姒吉梦及文王、太子发明堂龟卜拜受皇上帝商命之记载；《损》六三“三人行，则损一人”痛述季历遇害，勉励武王独任大业[cite: 1]。
+* **06–07. 夬卦与剥卦（武王决进与商廷崩解的错卦双线）**：《夬》与《剥》互为阴阳全反错卦，分自周师决进（孟津观兵还师、暮夜惊寤、冒雨疾行）与商廷层层剥落（微子三谏去国、比干剖心、箕子为奴、宠信宫人）双线推进，最终汇合于牧野决战现场[cite: 1]。
+* **08. 遁卦（殷有三仁的去留抉择）**：以“两爻一人”、下艮（不遁）上乾（远遁）结构分记比干死谏（“黄牛之革”双关制动马緧“纣”）、箕子先留为奴后走朝鲜、微子去商存祀终封于宋之归宿[cite: 1]。
+* **09. 革卦（癸巳起兵与牧野鼎革）**：考证“巳日乃孚”对应《尚书·武成》逸文“若翌日癸巳，武王乃朝步自周”，还原渡河誓师、改命立国及周制天子尚虎（大人虎变）、卿大夫尚豹（君子豹变）之新朝秩序[cite: 1]。
+* **10. 颐卦（宗庙食膰餕余礼制与三监之乱）**：还原《礼记·祭统》宗庙祭毕自上而下分赐祭肉（尸→君→卿→大夫→士）之礼制秩序，精准定位上九武王先王灵位（由颐）、六五摄政周公（拂经）、六四幼主成王（颠颐）、六三管叔（拂颐绝祀）、六二蔡叔（倒附商丘之颐）与初九武庚（舍灵龟观朵颐）[cite: 1]。
+* **11. 巽卦（夏代兴衰历史镜鉴）**：按编年梳理夏启武力立国（初六）、仲康失权频用巫史（九二）、帝相频巽被杀（九三）、少康借田猎诛灭三逆实现“先庚三日（太康至相无初）、后庚三日（少康至槐有终）”中兴（六四、九五），以及孔甲好鬼神丧其资斧致亡（上九）[cite: 1]。
 
-This paper serves as the general introduction to a systematic textual and historical exegesis of the hexagram and line statements (guayaoci) across eighteen hexagrams, organized into three companion studies: History of the Zhou People, Statecraft of the Zhou People, and Philosophy and Life of the Zhou People. Confronted with the longstanding conundrum in Yijing studies—that individual lines are often explicable in isolation while an entire hexagram remains difficult to construe as a coherent whole—this study takes as its point of departure the historical account in the Zuo Zhuan (2nd Year of Duke Zhao). Upon visiting the Grand Scribe (Taishi) during a diplomatic mission to the state of Lu and examining the Yi Xiang (Images of the Changes), Han Xuanzi of Jin sighed in admiration: "The rites of Zhou are preserved in their entirety here in Lu! Only now do I comprehend the virtue of the Duke of Zhou and the means by which the House of Zhou attained royal supremacy." Proceeding from this record, the paper explores the possibility that the ancient text of the Zhouyi was compiled as a corpus of state canons and historical annals by royal court officials during the early Western Zhou, against an institutional backdrop in which the functions of diviners (Taibu) and scribes (Taishi) were not yet differentiated. Precisely because it adopted a syncretic divinatory-historical genre that anchored historical memory in hexagram imagery and embedded ritual norms within divination, the Zhouyi survived the Qin dynasty burning of the books under the guise of a divination manual, emerging as the most intact early Western Zhou text among the pre-Qin Six Classics.
+### 中编：西周军礼农水与司法经世（12–16）[cite: 1]
+* **12. 师卦（西周宗法军制与三军阶梯阵型）**：考释受“王三锡命”之元老丈人坐镇中军（九二），余子庶子编为右军先锋冲阵消耗（六三“弟子舆尸”），嫡长子精锐居左后方蓄锐护宗祧（六四“师左次”），战机显现后长子军果断突击生擒敌方贵族（六五“利执言”）之国家军制[cite: 1]。
+* **13. 履卦（仲冬大阅冬狩全礼与享烝大祭）**：还原周天子仲冬亲临大泽举行冬狩之六大仪程：着素积白屦出征（素履）、平道衔枚静默布围（幽人）、小队武人依“险野人为主”深入荒泽驱虎（眇能视、跛能履）、驱动猛兽入大防围猎（愬愬）、天子下大绥果断止猎（夬履）及植旗割耳考功“振旅”班师（其旋元吉）[cite: 1]。
+* **14. 随卦（先秦岁时农政与间苗农法）**：结合《国语·周语上》立春“农祥晨正”解“官有渝”，以《吕氏春秋·辩土》“长其兄而去其弟”彻底破解二月苗生争肥（系小子，失丈夫）与三月下锄间苗去弱留强（系丈夫，失小子）之农政实践[cite: 1]。
+* **15. 临卦（西周司空防汛治水工程）**：结合甲金文“临”字下视川水构形与《说文》“瀶”字本义，考证隆冬枯水期全民筑堤（咸临）、察觉土方松缓返工（甘临，甘训缓）、季春司空巡修（至临）及筑堤敦实以御周历八月（夏历六月）主汛期（至于八月有凶）之水政周期[cite: 1]。
+* **16. 噬嗑卦（西周庙制鼎食等级与“同罪异罚”礼法编码）**：揭示六二至六五“噬肤、噬腊肉、噬干胏、噬干肉”分别锚定一命下士（一庙特牲猪胁革肉“肤”）、三命上士（三鼎兔腊）、四命以上卿大夫（少牢五鼎带骨麋胏）与天子同宗公族（太牢及王室特赐无骨肉脩）四级等级；结合阳爻市朝公开处断（初九庶人断足、九四大夫纳钧金束矢公讼、上九叛逆重罪夺肉绝祀割耳诛戮）与阴爻内部隐秘执行（六二下士劓刑、六三上士鞭扑适甸师氏、六五公族“议亲”纳赎铜即止），完整复原西周司法编码体系[cite: 1]。
 
-Guided by three exegetical principles—(1) thematic unity within each hexagram with structural continuity across all six lines, (2) alignment between hexagram images/line positions and historical events or ritual institutions, and (3) cross-hexagram comparison of recurring phrases alongside structural cross-referencing of inverted (zong) and opposite (cuo) hexagram pairs—this study organizes the eighteen hexagrams into three major thematic sections:
+### 下编：周人生活与哲学（17–18）[cite: 1]
+* **17–18. 需卦与蒙卦**：撮述处困待时（郊、沙、泥、血、酒食、入穴六阶距离）与启蒙教育成长曲线之哲理边界，以示《周易》古经体例之分野[cite: 1]。
 
-Part I, History of the Zhou People (11 hexagrams): Responds to the inquiry of "how the House of Zhou attained royal supremacy." It reconstructs the historical trajectory extending from the fall of the late Shang, the three-generational accumulation of power and reception of the Mandate by the House of Zhou, and the dynastic revolution at Muye, to the Duke of Zhou’s regency and suppression of rebellions, as well as the Zhou rulers' political reflections that drew upon the royal upheavals of the Xia dynasty as a historical mirror to admonish posterity.
+---
 
-Part II, Statecraft of the Zhou People (5 hexagrams): Responds to the observation that "the rites of Zhou are preserved in their entirety in Lu." It examines the intrinsic correspondences between institutional hexagrams and Western Zhou ritual governance, encompassing military rites, winter hunting ceremonies, seasonal agricultural administration, hydraulic governance under the Minister of Works (Sikong), patriarchal lineage feasting with ritual cauldrons, and judicial protocols governing status-differentiated punishments for identical offenses.
+## 版权与引证规范 (Citation & Copyright)
 
-Part III, Philosophy and Life of the Zhou People (2 hexagrams): Investigates the spatial coping strategies employed by the Zhou people when confronting perilous predicaments, alongside the cognitive patterns governing moral and intellectual initiation and personal maturation. (Note: This section consists of a philosophical or conceptual exposition; it is neither provable nor falsifiable, and is provided solely as an example for the purpose of text classification.)
+本书全部考据结论、文献版本核校与制度分析均受《中华人民共和国著作权法》及《伯尔尼公约》保护。任何个人或机构在学术论文、专著或出版物中引用本书观点，请按以下格式规范引注：
 
-Affiliation: Independent Scholar
+> 《〈周易〉十八卦卦爻辞系统考释》，2026年11月定稿，DOI: `10.5281/zenodo.xxxxxxx`[cite: 1, 2]。
